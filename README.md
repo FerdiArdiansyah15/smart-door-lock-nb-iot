@@ -39,3 +39,7 @@ authentication, GPS tracking, and NB-IoT communication using the SIM7000E module
 - 📊 Activity monitoring and logging
 - 📏 Distance calculation using the Haversine method
 - 📈 Quality of Service (QoS) testing
+
+## 👨‍💻 Author
+
+**Ferdi Ardiansyah**  
